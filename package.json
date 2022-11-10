@@ -1,8 +1,12 @@
 {
+  "name": "tweteroo",
   "type": "module",
+  "main": "O arquivo inicial do seu projeto aqui, no caso seria index.js",
   "scripts": {
-    "server": "npx nodemon index.js'"
+    "server": "npx nodemon index.js"
   },
+  "author": "Seu Lindo Nome Aqui :D",
+  "license": "A licença que voce quer para seu codigo aqui lindamente",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2"
